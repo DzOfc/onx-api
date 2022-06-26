@@ -2,7 +2,6 @@
 
 # Note
 
-ID</br>
 Jika Ada Bug,</br>
 Silahkan Buat [Issues](https://github.com/DzOfc/onx-api/issues/new)
 
