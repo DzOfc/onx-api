@@ -1,7 +1,7 @@
 {
   "name": "onx-api",
   "version": "0.9.5",
-  "description": "Simple API By OnX Dz",
+  "description": "Simple Api By OnX Dz",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -15,6 +15,7 @@
   },
   "keywords": [
     "onx-api",
+    "module",
     "api",
     "rest-api",
     "scraper",
