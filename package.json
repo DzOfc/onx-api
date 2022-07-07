@@ -28,6 +28,9 @@
   "author": {
     "name": "onxdz",
   },
+  "email": {
+    "email": "callmedzofc@gmail.com",
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DzOfc/onx-api.git"
