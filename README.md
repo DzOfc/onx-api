@@ -11,10 +11,6 @@ Silahkan Buat [Issues](https://github.com/DzOfc/onx-api/issues/new)
 
 `npm i github:DzOfc/onx-api`
 
-## npmjs
-
-`npm i onx-api`
-
 ## version
 
 `0.9.5`
