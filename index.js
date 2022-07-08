@@ -1,4 +1,4 @@
-const { version, author, email } = require("./package.json");
+const { author, contacts, version } = require("./package.json");
 const binary = require("./lib/binary");
 const iplookup = require("./lib/iplook");
 const artinama = require("./lib/artinama");
