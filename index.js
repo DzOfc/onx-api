@@ -52,6 +52,7 @@ const chordlagu = require("./lib/chordlagu");
 module.exports = {
   version,
   author,
+  email,
   info: {
     gempa,
   },
